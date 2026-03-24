@@ -29,12 +29,13 @@ I've been actively developing for Garry's Mod for over 4–5 years. Through work
 ## 🏗️ Communities I’ve Worked With  
 
 **Currently Working As Developer:**  
-- GHistory (2024–Present)  
-- Element MRP (2024–Present)  
-- Element DarkRP (2025–Present)  
-- Baso Networks CityRP (2025–Present)  
+None
 
 **Previously Worked With:**  
+- GHistory (2024–2025)  
+- Element MRP (2024–2025)  
+- Element DarkRP (2025)  
+- Baso Networks CityRP (2025)  
 - Genesis Servers | SCP-RP (2025)  
 - Jaws Roleplay (2025)  
 - Bozkurt Roleplay (2025)  
